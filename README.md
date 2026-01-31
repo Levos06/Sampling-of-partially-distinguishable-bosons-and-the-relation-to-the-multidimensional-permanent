@@ -24,5 +24,5 @@ Based on the paper: *Sampling of partially distinguishable bosons and the relati
 
 3.  Run tests:
     ```bash
-    pytest tests/test_simulation.py
+    python3 -m pytest tests/test_simulation.py
     ```
